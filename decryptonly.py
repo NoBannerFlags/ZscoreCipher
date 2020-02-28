@@ -4,7 +4,7 @@ print("Decrypt mode")
 key1 = float(input("stdev "))
 key2 = float(input("mean "))
 
-
+#This code was made by Malokai Persoff, please do not redistribute without permission.
 
 decryptme2 = input("All chrs to decrypt")
 decryptme2 = decryptme2.split(' ')
