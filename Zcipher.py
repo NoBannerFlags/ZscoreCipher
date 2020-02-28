@@ -9,7 +9,7 @@ for achr in t:
     print(achr)
     print(ord(achr))
 
-
+#This code was made by Malokai Persoff, please do not redistribute without permission.
 # Get the ASCII number of a character
 #number = ord(char)
 
