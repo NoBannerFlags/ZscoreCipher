@@ -9,13 +9,7 @@ for achr in t:
     print(achr)
     print(ord(achr))
 
-
-# Get the ASCII number of a character
-#number = ord(char)
-
-# Get the character given by an ASCII number
-#char = chr(number)
-
+#This code was made by Malokai Persoff, please do not redistribute without permission.
 
 
 #data = [11, 22, 33, 44, 41, 51, 55]
