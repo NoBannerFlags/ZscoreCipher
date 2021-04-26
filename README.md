@@ -8,3 +8,8 @@ Run the python script. "In words to use" enter the sentince you wish to encrypt.
 the zscores can also be more drastic, like this: 1.73893482893847
 paste the full zscore list into the "all chrs to decrypt" area.
 a minimum of 3 characters is required to encrypt.
+
+
+
+# How it Works
+In statistics, there is an operation known as standardization. This program takes the ASCII values of all the results and standardizes them, giving you an encyrypted value that requires 2 keys to decrypt.
