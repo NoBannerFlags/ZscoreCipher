@@ -15,4 +15,5 @@ a minimum of 3 characters is required to encrypt.
 In statistics, there is an operation known as standardization. This program takes the ASCII values of all the results and standardizes them, giving you an encyrypted value that requires 2 keys to decrypt. 
 
 >In statistics, standardization is the process of putting different variables on the same scale. This process allows you to compare scores between different types of variables. Typically, to standardize variables, you calculate the mean and standard deviation for a variable. Then, for each observed value of the variable, you subtract the mean and divide by the standard deviation.
-excerpt from [here](https://statisticsbyjim.com/glossary/standardization/). As you may have guessed, the dycryption keys are the mean and standard deviation.
+
+Excerpt from [here](https://statisticsbyjim.com/glossary/standardization/). As you may have guessed, the dycryption keys are the mean and standard deviation.
