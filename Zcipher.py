@@ -85,7 +85,7 @@ print(complete)
 decs = input("Press enter to close.")
 
 
-#old code - do not use
+#old code - do not use, archived because I want to remember it
 #decryptme = input("Chr to decrypt?")
 #dec = float(decryptme)*key1
 #dec += key2
