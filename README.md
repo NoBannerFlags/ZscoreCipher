@@ -17,3 +17,7 @@ In statistics, there is an operation known as standardization. This program take
 >In statistics, standardization is the process of putting different variables on the same scale. This process allows you to compare scores between different types of variables. Typically, to standardize variables, you calculate the mean and standard deviation for a variable. Then, for each observed value of the variable, you subtract the mean and divide by the standard deviation.
 
 Excerpt from [here](https://statisticsbyjim.com/glossary/standardization/). As you may have guessed, the dycryption keys are the mean and standard deviation.
+
+
+# Archive
+Project archived 7/31/2023, may later be unarchived for minor fixes or future updates, but for now im signing off
